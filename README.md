@@ -1,5 +1,5 @@
 # Adidas Sales Performance Analysis (2020-2021)
-
+![Adidas Sales Dashboard] (dashboard.png)
 ## 📌 Project Overview
 This project focuses on a comprehensive data analysis of Adidas sales performance during the years 2020 and 2021. The goal is to uncover key trends, regional performance, and the impact of various sales channels during this period.
 
